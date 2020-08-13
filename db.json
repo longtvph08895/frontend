@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "24",
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00"
+    },
+    {
+      "id": "25",
+      "name": "Ergonomic Steel Shirt",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00"
+    },
+    {
+      "id": "rg8xohnva",
+      "name": "longtvph08895",
+      "gallery": [],
+      "price": "200000"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name_cate": "asd"
+    }
+  ]
+}
